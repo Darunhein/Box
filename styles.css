@@ -1,0 +1,31 @@
+/*Margin Example*/
+.caja1 {
+  background: lightblue;
+  margin: 20px;
+}
+/*Padding Example*/
+.caja2 {
+  background: lightgreen;
+  padding: 15px;
+}
+/*Border Example*/
+.caja3 {
+  background: lightyellow;
+  border: 3px dashed red;
+}
+
+/*Width y Height Example*/
+.caja4 {
+  background: lightcoral;
+  width: 200px;
+  height: 100px;
+}
+
+/*Box-sizing Example*/
+.caja5 {
+  background: lightgray;
+  width: 200px;
+  padding: 20px;
+  border: 5px solid black;
+  box-sizing: border-box;
+}
